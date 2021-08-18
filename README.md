@@ -1,2 +1,2 @@
-# Breast-Cancer-Analysis
+# Breast Cancer Analysis
 Breast Cancer Wisconsin Database, is used to create a classifier that can help diagnose patients and predict the likelihood of a breast cancer. The main objective of this project is to identify and classify Malignant and Benign patients and intending how to parametrize our classification techniques hence to achieve high accuracy.  Various python libraries and different machine learning techniques are implemented and their accuracy is compared. The methodology involves use of supervised learning algorithms and classification techniques like Decision Tree, Random Forest and Logistic Regression.
